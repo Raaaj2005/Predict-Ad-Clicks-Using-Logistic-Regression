@@ -30,7 +30,7 @@ To run this project, you will need:
 ### ⚙️ Installation & Setup
 
 1. Clone the repository to your local machine:
-   git clone https://github.com/Raaaj2005/your-repo-name.git
+   git clone https://github.com/Raaaj2005/Predict-Ad-Clicks-Using-Logistic-Regression.git
 
 2. Navigate into the downloaded project folder:
    cd your-repo-name
