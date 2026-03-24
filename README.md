@@ -1,4 +1,4 @@
-# 🖱️ Predict Customer Ad Clicks using Logistic Regression
+# 🖱️ Predict Customer Ad Clicks Using Logistic Regression
 
 ## 📖 Overview
 This project focuses on building a machine learning classification model to predict whether a customer will click on an online advertisement. It covers the complete data science pipeline, from exploring and visualizing the dataset to preparing the data, training a Logistic Regression model, and visualizing the final results.
