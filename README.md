@@ -33,7 +33,7 @@ To run this project, you will need:
    git clone https://github.com/Raaaj2005/Predict-Ad-Clicks-Using-Logistic-Regression.git
 
 2. Navigate into the downloaded project folder:
-   cd your-repo-name
+   cd Predict-Ad-Clicks-Using-Logistic-Regression
 
 3. Install the required dependencies:
    pip install pandas numpy scikit-learn matplotlib seaborn jupyter
